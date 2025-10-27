@@ -27,7 +27,7 @@ html {
     font-size: 16px;
 }
 body {
-    background-color: rgb(210, 213, 251);
+    background-color: rgb(192, 194, 231);
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(34, 34, 110);
 }
@@ -41,7 +41,7 @@ img {
 h1 {
     font-size: 2em;
     text-align: center;
-    color: rgb(252, 246, 255)
+    color: rgb(255, 255, 255)
 }
 
 h2 {
