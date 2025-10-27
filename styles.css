@@ -81,6 +81,7 @@ figcaption,
 p {
     line-height: 1.5em;
     font-size: 0.9em;
+    text-align: center;
 }
 
 /* Style horizontal rules as thick gray bars */
@@ -111,8 +112,8 @@ figure {
 /* Style image captions with smaller gray text */
 .head-photo {
     font-size: 0.9em;
-    color: rgb(254, 234, 255);
-    margin-left: 2px;
+    color: rgb(252, 252, 252);
+    margin-left: 25px;
 }
 
 /* Style images within icon containers - block display, limited size, centered */
